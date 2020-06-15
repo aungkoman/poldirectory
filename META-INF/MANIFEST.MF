@@ -1,0 +1,339 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/photo/maymyohouse.jpg
+SHA1-Digest: 9+567pIE8w98hmz4H537DhM03SE=
+
+Name: assets/photo/nationmart.jpg
+SHA1-Digest: isNSiQZYj4rT0fHDiWbtp/5xm20=
+
+Name: assets/js/bootstrap.min.js
+SHA1-Digest: JpCDleeppOq2B9gKpQqB1l8wF8s=
+
+Name: assets/photo/htoo.jpg
+SHA1-Digest: bnkZceDVUPKzPkBz7WxbSvOIx0k=
+
+Name: assets/photo/mnls.jpg
+SHA1-Digest: XQtdn/nk/KBu1mU9uMeq14g9A7c=
+
+Name: assets/photo/plp.jpg
+SHA1-Digest: zY+x33kBpehaIEM+ddUbK7tl31E=
+
+Name: assets/main.html
+SHA1-Digest: pEf8x+UPsrXXlRKteQ7PuRNp/C4=
+
+Name: assets/photo/sagarwarphu.jpg
+SHA1-Digest: aw3+ySK4oXLijPAMHIqj3fe52po=
+
+Name: assets/photo/ourlogo.png
+SHA1-Digest: wcX4rrazfTwn+XXtPt7P38hiOY4=
+
+Name: classes.dex
+SHA1-Digest: YdSV3K7xpc5je8Lhv0XMfJ+y3+M=
+
+Name: assets/photo/bw.jpg
+SHA1-Digest: Es+ZmGWwEbHOUClyeOoHQYOScLU=
+
+Name: assets/photo/royalparkview.jpg
+SHA1-Digest: fPrn5CsDB27LY0WhBjp6b/V/cwk=
+
+Name: assets/about.html
+SHA1-Digest: T3REr2L9+tHoorslh0vt8DyaCqw=
+
+Name: assets/place/kantawgyi.jpg
+SHA1-Digest: 7x1wd6Do0tz2hFZc/AgANIL8sk0=
+
+Name: assets/photo/shwetea.jpg
+SHA1-Digest: Sf/k+eFY2soc40fHja8TssVEr38=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher1.png
+SHA1-Digest: gMZ0sx8nHfgWCvyfm72d7o6eV+k=
+
+Name: assets/photo/may.jpg
+SHA1-Digest: +Jyg0IoGkqQ8Eg9FArFfZpGwqOg=
+
+Name: assets/clothstore/cloth.html
+SHA1-Digest: Y+JbkLFR32TLAMKXXCseMer6fPs=
+
+Name: assets/photo/pyinoolwinstar.jpg
+SHA1-Digest: sEJLaziMFj4LOqwUp9dmZETqbXI=
+
+Name: assets/photo/baristakhine.jpg
+SHA1-Digest: DmvhPEhsnEXlcIcIE2XhvKhT6Pk=
+
+Name: assets/photo/nstar.jpg
+SHA1-Digest: kOXk+WlJzRkuO4MySrBh5GEzOac=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: OPILu6/OZ3I51LOV+MCKexCPZv8=
+
+Name: assets/photo/church.jpg
+SHA1-Digest: 5pKEFcthgvw0BD72uqQWM2rJaNc=
+
+Name: assets/hotel.html
+SHA1-Digest: ZR7McSggpKzUHyTTPcrAoMduPXQ=
+
+Name: assets/food/feel.jpg
+SHA1-Digest: c75J1JZjBpsmQQ/BWskEYKBkf1M=
+
+Name: assets/js/bootstrap_case_container.html
+SHA1-Digest: RW9/oEFhL3caNDRzHIGxZF1vwK4=
+
+Name: assets/photo/viewcorner.jpg
+SHA1-Digest: zkoWpr7wWgZisfFG4hjNEHpva1w=
+
+Name: assets/photo/2.jpg
+SHA1-Digest: zxZ9G+H4neUE2S86baABN0XDu8s=
+
+Name: assets/photo/greatwall.jpg
+SHA1-Digest: EcKEa2cximj7uJiJOsOgYyNQSOc=
+
+Name: assets/food/feel.html
+SHA1-Digest: Nk8bD8rG0ENwqdXCMtwfW1TWHx8=
+
+Name: assets/place/neartown.html
+SHA1-Digest: fY5zTF3MtwI2t0n9kWzDjWbLUA8=
+
+Name: assets/photo/wine.jpg
+SHA1-Digest: 9q/0yWGlKY9JXGhGoZdAxkMs+34=
+
+Name: assets/photo/polgate.jpg
+SHA1-Digest: nSFBexikNS9905w0oce3vXHkSKg=
+
+Name: assets/clothstore/mobile.html
+SHA1-Digest: 9w7wBqhkIKY0j1NxpqFQttA3Sdg=
+
+Name: assets/place/hneegod.jpg
+SHA1-Digest: cc0ffc8hSsAOma9CYsjtTAKZMwE=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: OPILu6/OZ3I51LOV+MCKexCPZv8=
+
+Name: assets/place/befall.jpg
+SHA1-Digest: NDzuLsebkR4UzVIIW/NQ4lAcQhM=
+
+Name: assets/photo/pth.jpg
+SHA1-Digest: 0fgnMe6wF5yVo0PfD+eRPXADgoM=
+
+Name: assets/photo/pol1.jpg
+SHA1-Digest: x6k+B2unNdLTzCpCeVmP1JuvBs8=
+
+Name: assets/photo/3.jpg
+SHA1-Digest: lD1IUUj4beXOnodK/g1EhD02sEI=
+
+Name: assets/photo/shwenanhtike.jpg
+SHA1-Digest: gHyZP2aQkgQ/QoqRLb8W38r9aU8=
+
+Name: assets/photo/power.jpg
+SHA1-Digest: ZKixj7U+IVwBJVgxdgq05ODSITg=
+
+Name: assets/photo/stonegod.jpg
+SHA1-Digest: pFUVN3yXtagscKOdVqIdtj54a34=
+
+Name: assets/place/fourgod.jpg
+SHA1-Digest: P5F9nhqP0uQ/CWbvhejsDyWb9lc=
+
+Name: assets/photo/ygw.jpg
+SHA1-Digest: WGRVw1hLciXMqvv9Ph71A96Q+BI=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: OPILu6/OZ3I51LOV+MCKexCPZv8=
+
+Name: assets/place/national.jpg
+SHA1-Digest: YXkPs7U7OUWogNSvpWli8p/e7i8=
+
+Name: assets/photo/hotpot.jpg
+SHA1-Digest: 4UIA6MMQGu1hO2Mn0rqKAWRek/A=
+
+Name: assets/photo/shop.jpg
+SHA1-Digest: knq4DxNTV3EPEgJu77BEWJRsIUA=
+
+Name: assets/photo/bobo.jpg
+SHA1-Digest: byDPXXEDjlduu+sZf3QkaEHvOVw=
+
+Name: assets/photo/ptw.jpg
+SHA1-Digest: rG2bewUXMEWK7LAZlKpoWavdeSo=
+
+Name: assets/photo/ngwesandar.jpg
+SHA1-Digest: xaSBrAwsAJqobG9Z1ExqyHiurRE=
+
+Name: assets/photo/kl.jpg
+SHA1-Digest: semq7a2NYLofOoMyUe4VF6ANOdw=
+
+Name: assets/photo/hteehlaing.jpg
+SHA1-Digest: 8aENhRmFljCCGSwUZPdFovznLH0=
+
+Name: assets/photo/grace.jpg
+SHA1-Digest: 8S4GO3/oXrIuAk/iWuQ6Y7fUZJY=
+
+Name: assets/photo/famous.jpg
+SHA1-Digest: BXipHs/lan2QYtZhWLuLZvRDCF0=
+
+Name: assets/photo/pcm.jpg
+SHA1-Digest: KWvC9l4Ho9WuiUfOkoWQ4DadG48=
+
+Name: res/drawable-hdpi-v4/ic_launcher1.png
+SHA1-Digest: gMZ0sx8nHfgWCvyfm72d7o6eV+k=
+
+Name: assets/place/china.jpg
+SHA1-Digest: UPiluBy/fzrAuaAGa8V1HpmGNSg=
+
+Name: assets/font/unicode.ttf
+SHA1-Digest: Do6qvokP7aunlSRhH6uADGIVwSA=
+
+Name: assets/js/w3schools.js
+SHA1-Digest: 5orutONQ35CXCdeTqmgrNCJssXI=
+
+Name: res/layout/main.xml
+SHA1-Digest: dS6L8vHzE9/uPvjFUjzeWhyhwQc=
+
+Name: assets/place/outtown.html
+SHA1-Digest: U9T9SZ/RyhtkI7VFDbCLEGBRh1k=
+
+Name: assets/food/rice.html
+SHA1-Digest: MzIDR+WLPwBrMtoy7ahAOhJJIUE=
+
+Name: assets/photo/decemberfield.jpg
+SHA1-Digest: DQlbsJumww5QcQ4cfvCOONajrxs=
+
+Name: assets/food/pantawwin.jpg
+SHA1-Digest: 98bPrWiqwwcPVMxI23CzNxE1up0=
+
+Name: assets/photo/nanmying.jpg
+SHA1-Digest: oZgCPbz2hO6ligg1H8n29EMP1lo=
+
+Name: assets/photo/place.jpg
+SHA1-Digest: p7JlnhwfSVjgh7vyYwDwCf5Otu8=
+
+Name: assets/photo/ghouse.jpg
+SHA1-Digest: xWSVJqo5B46dUqesYfVBKS3ycx4=
+
+Name: assets/photo/vp1.jpg
+SHA1-Digest: itY0OORiG6PR9GDqQpJ/XPQF5fY=
+
+Name: assets/clothstore/store.html
+SHA1-Digest: u0tG1UDA174Hym0iHIoLLRsxYhs=
+
+Name: assets/photo/yangonstore.jpg
+SHA1-Digest: 5H8ls6avx7PZVkqnHh7XH4Ap8ok=
+
+Name: assets/photo/solar.jpg
+SHA1-Digest: mJJ1MIFw8KrS3e4oIwBhXMT4WJY=
+
+Name: assets/photo/1.jpg
+SHA1-Digest: ClwsEQji38Nb/f1Uh4nwnBAcRjg=
+
+Name: assets/js/bootstrap_w3schools.css
+SHA1-Digest: eKX6f2nfJ1iEfxMCVi4enh6alH4=
+
+Name: assets/food/sfcc.jpg
+SHA1-Digest: g50CjGHpaxVHw/XhK84Vg45tlR8=
+
+Name: assets/photo/pol0.jpg
+SHA1-Digest: bw6PYvhWhTSB9yuHioOq8pGHm40=
+
+Name: assets/js/bootstrap.min 1.js
+SHA1-Digest: I7P341Ca+PD/74u9G/NxKCVyQpw=
+
+Name: assets/photo/amuse.jpg
+SHA1-Digest: k7SXdvQUDx8V4ynmRK4kT6mp4wY=
+
+Name: assets/photo/uphyo.jpg
+SHA1-Digest: h+E6mu3C9Oybnf4S6xAzPK43nYI=
+
+Name: assets/photo/parrami.jpg
+SHA1-Digest: 5P4Dwao10ZWRDnpp7qTUUKy5+ng=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: OPILu6/OZ3I51LOV+MCKexCPZv8=
+
+Name: assets/place/mahar.jpg
+SHA1-Digest: bw6PYvhWhTSB9yuHioOq8pGHm40=
+
+Name: assets/place/viewpoint.jpg
+SHA1-Digest: LW0Ajp5IMRcM3hrUxMGk5+0+iW8=
+
+Name: assets/photo/yamin.jpg
+SHA1-Digest: FekVDzxVKNDSeWF7C5LKBykH0dg=
+
+Name: assets/food/golden.jpg
+SHA1-Digest: TcKpe3PzgofL46SA3lvjTX6xw4E=
+
+Name: assets/photo/hotelmaymyo.jpg
+SHA1-Digest: 5HYNnFSrLXfW3eA/TYEGPpmJiW8=
+
+Name: assets/photo/shop.png
+SHA1-Digest: lBVxhWZjnShgvcB/T/KcnfgmZAU=
+
+Name: res/drawable-mdpi-v4/ic_launcher1.png
+SHA1-Digest: gMZ0sx8nHfgWCvyfm72d7o6eV+k=
+
+Name: assets/photo/wtym.jpg
+SHA1-Digest: vetMw8v9wfvabc6r1Fpqs7jPjRo=
+
+Name: res/drawable-xhdpi-v4/ic_launcher1.png
+SHA1-Digest: gMZ0sx8nHfgWCvyfm72d7o6eV+k=
+
+Name: assets/photo/clock1.jpg
+SHA1-Digest: FugFC2M5qgQG7F0V6fPZ0gZVvrI=
+
+Name: assets/food/cool.html
+SHA1-Digest: If5zvbFrRcMbhNrCtdilA0ld5Ao=
+
+Name: assets/photo/food.jpg
+SHA1-Digest: QiiPJgIP4Gjj9/8H+/q7doHxs2U=
+
+Name: assets/photo/ayishan.jpg
+SHA1-Digest: sHeD6BMjUbYgm8TU2fFoZZN4N4s=
+
+Name: assets/photo/dawhwte.jpg
+SHA1-Digest: Tp6v25D1HbsiLgfg+r21IzX3lnQ=
+
+Name: assets/photo/sfcc.jpg
+SHA1-Digest: Pdg2h+bHyOdK2XHQyb5uPthCk1E=
+
+Name: resources.arsc
+SHA1-Digest: p2UDrCk7yUmELwtOT8sPCy4W8EI=
+
+Name: assets/photo/pankabar.jpg
+SHA1-Digest: Tfry52e3yS4Bmmb+pOMinz6mueM=
+
+Name: assets/photo/hotelpol.jpg
+SHA1-Digest: vru2xgT51QJR7hqQ8Puz5L3L8fU=
+
+Name: assets/photo/clock.jpg
+SHA1-Digest: 1P15yhBQvCI4mSS8MkVBazVIVzQ=
+
+Name: assets/photo/yangon.jpg
+SHA1-Digest: m+rFBNYKEh00edhVjDKLmiQJaOM=
+
+Name: assets/js/stdtheme.css
+SHA1-Digest: DVGg+1TSwbWLpYYrl4NqvXlw3qU=
+
+Name: assets/js/jquery.js
+SHA1-Digest: gTBUTCFf5dHsCB2DRhv0pxHnSII=
+
+Name: assets/place/innertown.html
+SHA1-Digest: LOWqCUyYYJq+3vnNi5XUVl2paXY=
+
+Name: assets/photo/goteh.jpg
+SHA1-Digest: q+u8T3WKXOmol1EJoJBar3Ws/Ag=
+
+Name: assets/food/viewpointr.jpg
+SHA1-Digest: mE6BPR9jizo8z5Vz40iWwmCigl0=
+
+Name: assets/photo/thuthu.jpg
+SHA1-Digest: ljU7mCnqTKYcqWouUiG+PK8lvVE=
+
+Name: res/drawable-hdpi-v4/ic_launcherr.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: fyRFy5yrO0224sva3PW6KVX32Eo=
+
+Name: assets/photo/malaysia.jpg
+SHA1-Digest: B7U2+3PYsWDu0pe0ZYKz6nysAzE=
+
+Name: assets/js/bootstrap.min.css
+SHA1-Digest: MLfpB9+yP4OfiE3Oh7kDenDLKFg=
+

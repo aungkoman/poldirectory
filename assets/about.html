@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<!-- Mirrored from www.w3schools.com/asp/ado_add.asp by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 23 Jan 2015 06:48:24 GMT -->
+<head>
+
+<title>About app</title>
+<style>a.menu_ado_add{font-weight:bold;} a.topnav_asp{background-color:#8AC007 !important;color:#ffffff !important;}</style>
+<style>
+#smallnavContainer {display:none;}
+</style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Keywords" content="စားသောက်ဆိုင်၊အအေးဆိုင်၊ထမင်းဆိုင်">
+<meta name="Description" content="စားသောက်ဆိုင်၊ထမင်းဆိုင်">
+<link rel="icon" href="../favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="js/bootstrap_w3schools.css">
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3855518-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+ // GPT slots
+ var gptAdSlots = [];
+ googletag.cmd.push(function() {
+
+   var leaderMapping = googletag.sizeMapping().
+   // Mobile ad
+   addSize([0, 0], [320, 50]). 
+   // Vertical Tablet ad
+   addSize([480, 0], [468, 60]). 
+   // Horizontal Tablet
+   addSize([700, 0], [728, 90]).
+   // Desktop and bigger ad
+   addSize([1200, 0], [970, 90]).build();
+
+   gptAdSlots[0] = googletag.defineSlot('/16833175/MainLeaderboard', [[728, 90], [970, 90]], 'div-gpt-ad-1421673681735-0').
+   defineSizeMapping(leaderMapping).addService(googletag.pubads());
+
+   var skyMapping = googletag.sizeMapping().
+   // Mobile ad
+   addSize([0, 0], [320, 50]). 
+   // Tablet ad
+   addSize([975, 0], [120, 600]). 
+   // Desktop
+   addSize([1100, 0], [160, 600]).build();
+   gptAdSlots[1] = googletag.defineSlot('/16833175/WideSkyScraper', [160, 600], 'div-gpt-ad-1417079718248-6').
+   defineSizeMapping(skyMapping).addService(googletag.pubads());
+
+   var lpsMapping = googletag.sizeMapping().
+   // Smaller
+   addSize([0, 0], []). 
+   // Desktop
+   addSize([1100, 0], [[728, 280], [728, 400], [728, 450]]).build();
+   gptAdSlots[2] = googletag.defineSlot('/16833175/LargePS', [[728, 280], [728, 400], [728, 450]], 'div-gpt-ad-1417079718248-1').
+   defineSizeMapping(lpsMapping).setCollapseEmptyDiv(true).addService(googletag.pubads());
+
+   var spsMapping = googletag.sizeMapping().
+   // Smaller
+   addSize([0, 0], []). 
+   // Desktop
+   addSize([1100, 0], [728, 170]).build();
+   gptAdSlots[3] = googletag.defineSlot('/16833175/SmallPS', [728, 170], 'div-gpt-ad-1417079718248-5').
+   defineSizeMapping(spsMapping).setCollapseEmptyDiv(true).addService(googletag.pubads());
+
+   gptAdSlots[4] = googletag.defineSlot('/16833175/BottomMediumRectangle', [300, 250], 'div-gpt-ad-1417079718248-0').addService(googletag.pubads());
+   gptAdSlots[5] = googletag.defineSlot('/16833175/RightBottomMediumRectangle', [300, 250], 'div-gpt-ad-1417079718248-4').addService(googletag.pubads());
+
+/*           
+   var bmrMapping = googletag.sizeMapping().
+   // Smaller
+   addSize([0, 0], [300, 250]). 
+   // Desktop
+   addSize([1400, 0], [970, 250]).build();
+   gptAdSlots[4] = googletag.defineSlot('/16833175/BottomMediumRectangle', [300, 250], 'div-gpt-ad-1417079718248-0').
+   defineSizeMapping(bmrMapping).setCollapseEmptyDiv(true).addService(googletag.pubads());
+
+   var rbmrMapping = googletag.sizeMapping().
+   // Smaller
+   addSize([0, 0], [300, 250]). 
+   // Desktop
+   addSize([1400, 0], [0, 0]).build();
+   gptAdSlots[4] = googletag.defineSlot('/16833175/RightBottomMediumRectangle', [300, 250], 'div-gpt-ad-1417079718248-4').
+   defineSizeMapping(rbmrMapping).setCollapseEmptyDiv(true).addService(googletag.pubads());
+*/
+   googletag.pubads().setTargeting("content","ado");
+   googletag.enableServices();
+ });
+</script>
+<script>
+if (window.addEventListener) {              
+    window.addEventListener("resize", browserResize);
+} else if (window.attachEvent) {                 
+    window.attachEvent("onresize", browserResize);
+}
+var xbeforeResize = window.innerWidth;
+var ybeforeResize = window.innerWidth;
+var zbeforeResize = window.innerWidth;
+function browserResize() {
+    var afterResize = window.innerWidth;
+    if ((xbeforeResize < (1200 + 14) && afterResize >= (1200 + 14)) || (xbeforeResize >= (1200 + 14) && afterResize < (1200 + 14)) ||
+        (xbeforeResize < (700 + 14) && afterResize >= (700 + 14)) || (xbeforeResize >= (700 + 14) && afterResize < (700 + 14)) ||
+        (xbeforeResize < (480 + 17) && afterResize >= (480 + 17)) ||(xbeforeResize >= (480 + 17) && afterResize < (480 + 17))) {
+        xbeforeResize = afterResize;
+        googletag.cmd.push(function() {
+            googletag.pubads().refresh([gptAdSlots[0]]);
+        });
+    }
+    if ((ybeforeResize < (1100 + 14) && afterResize >= (1100 + 14)) || (ybeforeResize >= (1100 + 14) && afterResize < (1100 + 14)) ||
+        (ybeforeResize < (975 + 17) && afterResize >= (975 + 17)) || (ybeforeResize >= (975 + 17) && afterResize < (975 + 17))) {
+        ybeforeResize = afterResize;
+        googletag.cmd.push(function() {
+            googletag.pubads().refresh([gptAdSlots[1]]);
+        });
+    }
+    if (zbeforeResize < (1100 + 17) && afterResize >= (1100 + 17)) {
+        zbeforeResize = afterResize;
+        googletag.cmd.push(function() {
+            googletag.pubads().refresh([gptAdSlots[2], gptAdSlots[3]]);
+        });
+    }
+    if (zbeforeResize >= (1100 + 17) && afterResize < (1100 + 17)) {
+        zbeforeResize = afterResize;
+        googletag.cmd.push(function() {
+            googletag.pubads().clear([gptAdSlots[2], gptAdSlots[3]]);
+        });
+    }
+}
+</script>
+<link rel="stylesheet" type="text/css" href="js/stdtheme.css" />
+<style>
+	@font-face{
+	font-family:unicode;
+	src:url("font/unicode.ttf");
+	}
+	
+	body{
+	font-family:unicode;
+	color:#1E90FF;
+	}
+	
+	div.footer{
+	font-family:unicode;
+	color:green;
+	}
+
+</style>
+</head>
+<body>
+
+
+
+
+<div class="chapter">
+<div class="prev"><a class="home" href="main.html">&laquo;Home</a></div>
+<div class="next"><a class="next" href="place/innertown.html"></a></div>
+</div>
+<hr>
+
+
+
+<h3><b>About Application...</b></h3><br>
+
+
+<div class="tutintro">
+<img src="photo/ourlogo.png" alt="pol" style="height:128px;width:200px">
+<p><div>
+	ပြင်ဦးလွင်မြို့ကို အလည်အပတ် အပန်းဖြေခရီး လာမယ့် မြန်မာပြည်အရပ်ရပ်က မိဘပြည်သူများ လည်ပတ်ရာတွင်အဆင်ပြေစေရန် ပြင်ဦးလွင်မြို့နဲ့ အနီးတဝိုက်ရှိ တန်ခိုးကြီးဘုရားများ ၊ လည်ပတ်ရန် နေရာများ ၊ စားသောက်ဆိုင်များ အပါအဝင် အခြား ခရီးသွား ဧည့်သည်များလိုအပ်နိုင်သည့် သတင်းအချက်အလက်များကို အချိန်နှင့် တပြေးညီ တင်ဆက်ပေးသွားမှာ ဖြစ်ပါတယ်
+		<br></p>
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+         
+           
+     <hr>
+     <div class="footer">
+      <div class="footer">
+       <p>ပြင်ဦးလွင်လမ်းညွှန် မှ ကြိုဆိုပါတယ်</h2>
+       <p>ပြင်ဦးလွင်မြို့နှင့် အနီးတဝိုက် ရှိ <br>
+       တန်ခိုးကြီးဘုရားများ...<br>
+       လည်ပတ်ရန် နေရာများ...<br>
+       စားသောက်ဆိုင်များ၏ အချက်အလက်များကို Update တင်ပေးသွားမှာ ဖြစ်ပါတယ်</p>
+       <p><b><font color=blue>CS 16</font></b></p>
+       <p><font color=fuchisu><b>Created by AR KAR MYO & AUNG KO MAN</b></font></p>
+       <p><a href="http://www.facebook.com/arkar.myo.001"><b>&laquo;<font color=blue>Facebook</font>&laquo;</b></a></p>
+        <hr>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+</div>
+
+
+
+</div>
+</div>
+
+<!-- Mirrored from www.w3schools.com/asp/ado_add.asp by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 23 Jan 2015 06:48:25 GMT -->
+</html>
